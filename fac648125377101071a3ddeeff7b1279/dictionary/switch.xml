@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Switch" max_length="40" name="switch" type="collection">
+        <element label="Dwara" max_length="40" name="dwara" type="string"/>
         <element label="Switch2" max_length="40" name="switch2" type="string"/>
     </element>
 </database>
